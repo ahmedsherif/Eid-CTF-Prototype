@@ -5,7 +5,7 @@ By inspecting the HTTP responses, we figure out that the application is written 
 
 ![Application](http://snappyimages.nextwavesrl.netdna-cdn.com/img/4f786f0c3099ae9aad02921d1aab97b9.png)
 
-Next By inspecting the comments we see the below comment:
+Next By inspecting the comments we see the below comments:
 
 > <!-- Ziko: I could not push the code to the CI/CD pipeline, so NexusIQ was not executed on this project. Would you please check it for me ? the endpoint for getting files is: /DownloadFile/${file}
 
