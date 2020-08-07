@@ -7,7 +7,7 @@ By inspecting the HTTP responses, we figure out that the application is written 
 
 Next By inspecting the comments we see the below comments:
 
-> <!-- Ziko: I could not push the code to the CI/CD pipeline, so NexusIQ was not executed on this project. Would you please check it for me ? the endpoint for getting files is: /DownloadFile/${file}
+<!-- Ziko: I could not push the code to the CI/CD pipeline, so NexusIQ was not executed on this project. Would you please check it for me ? the endpoint for getting files is: /DownloadFile/${file}
 
 We can then figure out that there is a download function that takes the file name and download the file. knowing that the application is written in NodeJS, we can assume that the file 'package.json'.
 
