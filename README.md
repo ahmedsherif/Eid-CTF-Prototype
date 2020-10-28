@@ -1,4 +1,10 @@
-# Elz3ama-CTF
+# EID-CTF
+
+
+I wrote this challenge for the EID CTF in Dubai 2020. 
+
+## Write-up
+
 
 By inspecting the HTTP responses, we figure out that the application is written in NodeJs.
 
